@@ -7,11 +7,11 @@ html, body {
     font-family: "xingothic-tc-w4","XinGothic-TC W4","LantingHei TC","Apple LiGothic","Microsoft JhengHei",sans-serif;
 }
 section .content {
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 50px;
+    padding-left: 50px;
     margin-right: auto;
     margin-left: auto;
-    width: 80%;
+    width: 90%;
     padding-top: 50px;
     padding-bottom: 50px;
 
@@ -35,6 +35,7 @@ section .content {
 #enroll{
     background-image:url(../img/bkn.png);
     background-position: bottom center;
+    height: 100%;
 }
 
 #torchIntro{
@@ -90,7 +91,7 @@ section .content {
         margin-left: 5px;
         vertical-align: middle;
         border-radius: 5px;
-        padding: 10px 25px 10px 25px;
+        padding: 5px 20px 5px 20px;
         transition: background-color 300ms linear 0;
     }
     #top nav ul li:hover {
@@ -175,6 +176,7 @@ section .content {
         margin-left: 5%;
         max-width: 500px;
         width: 40%;
+        min-width: 200px;
         float: left;
     }
 
