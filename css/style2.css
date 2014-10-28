@@ -29,6 +29,7 @@ section .content {
 }
 #schedule {
     background-color: #7d350c;
+    overflow: auto;
 }
 
 #enroll{
@@ -48,7 +49,7 @@ section .content {
 }
 
 #qa{
-
+    overflow: auto;
     background-color: #660f04;
 }
 /* ----- top
