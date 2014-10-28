@@ -15,6 +15,7 @@ section .content {
     padding-top: 50px;
     padding-bottom: 50px;
 
+
 }
 #about, #member, #schedule, #enroll, #torchIntro, #transInfo, #top,#qa{
     min-height: 100%;
@@ -110,6 +111,7 @@ section .content {
         right: 30%;
         text-align: left;
         padding: 20px;
+        min-width: 250px;
     }
 
 
@@ -176,7 +178,7 @@ section .content {
         margin-left: 5%;
         max-width: 500px;
         width: 40%;
-        min-width: 200px;
+        min-width: 250px;
         float: left;
     }
 
@@ -185,7 +187,7 @@ section .content {
     }
 
     .yello {
-        color: #ffe721;
+        color: #e7d1b6;
     }
     a{
  color: #ffe721;
