@@ -23,7 +23,7 @@ section .content {
 #about {
     background-image:url(../img/bkn.png);
     text-align: center;
-    height: 150%;
+    height: 100%;
     overflow: auto;
 }
 #member{
@@ -197,7 +197,7 @@ section .content {
 
 #video_w{
 
-    height: 100%;
+    height: 50%;
     width: 100%;
 }
 
