@@ -194,4 +194,9 @@ section .content {
  color: #ffe721;
     }
 
+#video_w{
+
+    height: 100%;
+    width: 100%;
+}
 
