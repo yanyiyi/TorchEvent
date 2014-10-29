@@ -194,10 +194,14 @@ section .content {
     a{
  color: #ffe721;
     }
+#about .content{
+
+    height: 40%;
+}
 
 #video_w{
 
-    height: 40%;
+    height: 60%;
     width: 100%;
 }
 
