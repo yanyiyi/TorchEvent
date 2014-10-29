@@ -24,6 +24,7 @@ section .content {
     background-image:url(../img/bkn.png);
     text-align: center;
     height: 100%;
+    overflow: auto;
 }
 #member{
     background-image:url(../img/bkn.png);
