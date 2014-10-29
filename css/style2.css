@@ -23,6 +23,7 @@ section .content {
 #about {
     background-image:url(../img/bkn.png);
     text-align: center;
+    height: 100%;
 }
 #member{
     background-image:url(../img/bkn.png);
@@ -192,3 +193,5 @@ section .content {
     a{
  color: #ffe721;
     }
+
+
