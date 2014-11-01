@@ -14,12 +14,12 @@ section .content {
     width: 90%;
     padding-top: 50px;
     padding-bottom: 50px;
-
-
 }
+
 #about, #member, #schedule, #enroll, #torchIntro, #transInfo, #top,#qa{
     min-height: 100%;
 }
+
 #about {
     background-image:url(../img/bkn.png);
     text-align: center;
@@ -201,7 +201,20 @@ section .content {
 
 #video_w{
 
-    height: 60%;
+    height: 57%;
     width: 100%;
+}
+
+a:hover{
+    color: #FFF;
+}
+
+.newTable{
+            margin-right: 5%;
+        margin-left: 5%;
+        max-width: 500px;
+        width: 40%;
+        min-width: 250px;
+    clear: both;
 }
 
